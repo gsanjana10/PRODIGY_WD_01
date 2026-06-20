@@ -28,5 +28,3 @@ An interactive navigation menu built using HTML, CSS, and JavaScript. The menu r
 
 Prodigy InfoTech Web Development Internship - Task 01
 
-## 👩‍💻 Author
-**Sanjana G** 
