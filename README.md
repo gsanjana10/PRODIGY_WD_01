@@ -1,3 +1,32 @@
-Responsive Landing Page
+# 🌐 Interactive Navigation Menu
 
-Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages. Use HTML to structure the menu, CSS to style it, and JavaScript to add interactivity, such as changing the background color or font color of the menu when it is scrolled or when a menu item is hovered over. 
+## 📌 Overview
+An interactive navigation menu built using HTML, CSS, and JavaScript. The menu remains fixed at the top of the page and changes style when scrolling or hovering over menu items.
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## ✨ Features
+- Fixed Navigation Bar
+- Hover Effects
+- Scroll Effects
+- Responsive Design
+- User-Friendly Interface
+
+## 🚀 How to Run
+1. Download the project files.
+2. Open `index.html` in your browser.
+3. Explore the navigation menu interactions.
+
+## 📚 Learning Outcomes
+- HTML Structure
+- CSS Styling
+- JavaScript Event Handling
+- Interactive Web Design
+
+Prodigy InfoTech Web Development Internship - Task 01
+
+## 👩‍💻 Author
+**Sanjana G** 
